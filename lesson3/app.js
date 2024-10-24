@@ -139,9 +139,9 @@ let res = "4" / 2;
 // let a = 65;
 
 // console.log(a.toString(8));
-let r;
-console.log((2 && 4 && false && 4) || (true && {}));
-console.log(8 && r && 6 && 45 && 0 && [] && 43);
+// let r;
+// console.log((2 && 4 && false && 4) || (true && {}));
+// console.log(8 && r && 6 && 45 && 0 && [] && 43);
 
 // Object creation
 // let person = { name: "Eshmat", age: 32 };
